@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Button_change">Hello</string>
+    <string name="Change_tekst">TekstChange</string>
+</resources>
